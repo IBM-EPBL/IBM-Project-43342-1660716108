@@ -14,7 +14,7 @@
 
     4. Eswar R[TM4] - 111919106303
 
-## $\color[RGB]{255, 255, 255} INTRODUCTION:$
+## \color[RGB]{255, 255, 255} INTRODUCTION:
 
         ⦿ Humans are able to recognize body and sign language easily. This is possible due to the combination of vision
     and synaptic interactions that wereformed along brain development . In order to replicate this skill in computers,
