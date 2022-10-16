@@ -1,8 +1,6 @@
-# IBM-Project-43342-1660716108
-
 # A Gesture-Based Tool For Sterile Browsing Of Radiology Images
 
-# $\color[RGB]{255, 255, 255} Team Members:$
+# Team Members:$
 
     1. Dinesh Kumar S[TL] -111919106008
 
@@ -14,7 +12,7 @@
 
     4. Eswar R[TM4] - 111919106303
 
-## \color[RGB]{255, 255, 255} INTRODUCTION:
+# INTRODUCTION:$
 
         ⦿ Humans are able to recognize body and sign language easily. This is possible due to the combination of vision
     and synaptic interactions that wereformed along brain development . In order to replicate this skill in computers,
@@ -26,7 +24,7 @@
     frame. The image of the gesture captured in the video frame is compared with the Pre-trained model and the gesture is identified.
     If the gesture predictes is 1 then images is blurred;2, image is resized;3,image is rotatedm etc.
 
-## $\color[RGB]{255, 255, 255} PROJECT \ OBJECTIVE:$
+# PROJECT \ OBJECTIVE:$
 
 **By the end of this project you will**
 
@@ -38,7 +36,7 @@
 
     ➼ Know how to build a web application using Flask framework.
 
-## $\color[RGB]{255, 255, 255} PROBLEM \ STATEMENT:$
+# PROBLEM \ STATEMENT:$
 
        ⦿ In this project we have used Convolutional Neural Network to frst train the model on the images of
       different hand gestures, like showing numbers with fngers as 0,1,2,3,4,5. Then we made a web portal
@@ -59,7 +57,7 @@
       allowing doctors' hands to remain sterile, supporting their focus of attention, and providing fast
       response times.
 
-## $\color[RGB]{255, 255, 255} PROJECT \ FLOW:$
+# PROJECT \ FLOW:$
 
     ⦿ User interacts with the UI (User Interface) to upload the image as input
 
@@ -95,7 +93,7 @@
         ⦿ Create an HTML file
         ⦿ Build Python Code
 
-## $\color[RGB]{255, 255, 255} PROJECT \ STRUCTURE:$
+# PROJECT \ STRUCTURE:$
 
 **Create a Project folder which contains files as shown below**
 
@@ -108,7 +106,7 @@
     ⦿ The static folder will contain js and css files.
     ⦿ Whenever we upload a image to predict, that images is saved in uploads folder.
 
-## $\color[RGB]{255, 255, 255} TECHNICAL \ ARCHITECTURE:$
+# TECHNICAL \ ARCHITECTURE:$
 
 ![image](https://user-images.githubusercontent.com/70817219/194914841-4fc230f1-53f9-4b5a-8d9a-e902d9fc3581.png)
 
