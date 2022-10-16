@@ -2,7 +2,7 @@
 
 # A Gesture-Based Tool For Sterile Browsing Of Radiology Images
 
-## $\color[RGB]{255, 255, 255} Team Members:$
+# $\color[RGB]{255, 255, 255} Team Members:$
 
     1. Dinesh Kumar S[TL] -111919106008
 
